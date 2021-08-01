@@ -18,6 +18,8 @@ and support the program. I was able to convert the data in the "tripduration" to
 
 ![Checkout Times for Users](https://user-images.githubusercontent.com/82621077/127787181-ee0ed5d7-c10b-4d51-a00d-5892ad204290.png)
 
+![Checkout  Times for Gender](https://user-images.githubusercontent.com/82621077/127787207-d07e1b2a-2794-43cd-b5b7-8456b9ef2e0b.png)
+
 ![Checkout  Times for Gender](https://user-images.githubusercontent.com/82621077/127787215-3a858cfb-049c-4afc-8419-fefcc54ce3db.png)
 
 ![Checkout Times for Users](https://user-images.githubusercontent.com/82621077/127787216-d2bf7d42-8d81-4013-bc9d-2fdc556530bb.png)
@@ -28,7 +30,7 @@ and support the program. I was able to convert the data in the "tripduration" to
 
 ![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/82621077/127787223-9c685427-e94e-4d9b-babe-536edbdb002a.png)
 
-![Checkout  Times for Gender](https://user-images.githubusercontent.com/82621077/127787207-d07e1b2a-2794-43cd-b5b7-8456b9ef2e0b.png)
+
 
 
 ## Summary

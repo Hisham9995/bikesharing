@@ -41,9 +41,17 @@ and support the program. I was able to convert the data in the "tripduration" to
 ![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/82621077/127787223-9c685427-e94e-4d9b-babe-536edbdb002a.png)
 
 *.  Bikes are mostly checked out for 4 to 6 hours.
+
+
 *.  Male users take  more rides than the female users
+
+
 *.  Those rides are mostly taken by male users
+
+
 *.  Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
+
+
 *.  Weekend rides are highest from 10:00 AM to 7:00 PM.
 
 ## Summary

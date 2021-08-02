@@ -21,18 +21,25 @@ and support the program. I was able to convert the data in the "tripduration" to
 
 ![Checkout Times for Users](https://user-images.githubusercontent.com/82621077/127787181-ee0ed5d7-c10b-4d51-a00d-5892ad204290.png)
 
+
+
 ![Checkout  Times for Gender](https://user-images.githubusercontent.com/82621077/127787207-d07e1b2a-2794-43cd-b5b7-8456b9ef2e0b.png)
 
 ![Checkout  Times for Gender](https://user-images.githubusercontent.com/82621077/127787215-3a858cfb-049c-4afc-8419-fefcc54ce3db.png)
 
+Bikes are mostly checked out for 4 to 6 hours.
+
 ![Checkout Times for Users](https://user-images.githubusercontent.com/82621077/127787216-d2bf7d42-8d81-4013-bc9d-2fdc556530bb.png)
+Male users take  more rides than the female users
 
 ![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/82621077/127787218-8963a4f3-7b52-4624-82e9-a4ff58cc198f.png)
-
+Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
+.
 ![Trips by Weekday per Hour](https://user-images.githubusercontent.com/82621077/127787220-00ccb5df-c453-4cd4-a0d3-d39572268675.png)
 
+Those rides are mostly taken by male users
 ![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/82621077/127787223-9c685427-e94e-4d9b-babe-536edbdb002a.png)
-
+Weekend rides are highest from 10:00 AM to 7:00 PM.
 
 
 

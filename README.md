@@ -40,11 +40,11 @@ and support the program. I was able to convert the data in the "tripduration" to
 
 ![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/82621077/127787223-9c685427-e94e-4d9b-babe-536edbdb002a.png)
 
-Bikes are mostly checked out for 4 to 6 hours.
-Male users take  more rides than the female users
-Those rides are mostly taken by male users
-Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
-Weekend rides are highest from 10:00 AM to 7:00 PM.
+*.Bikes are mostly checked out for 4 to 6 hours.
+*.Male users take  more rides than the female users
+*.Those rides are mostly taken by male users
+*.Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
+*.Weekend rides are highest from 10:00 AM to 7:00 PM.
 
 ## Summary
 This Analysis shows the high activity of the bike-sharing service in New York The far majority of the rides were in the very busy Manhattan Island,5 minutes is the most common Time for users to utilize bike-sharing,  this implies that the clients rely on this service for a short distance and Male users  make the majority of trip duration compared to Female,
